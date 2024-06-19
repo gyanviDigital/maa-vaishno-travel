@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for Bharat Taxi Blog	</title>
+	<atom:link href="https://www.bharattaxi.com/blog/comments/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.bharattaxi.com/blog</link>
+	<description>A Blog for the Taxi Cab Experiences</description>
+	<lastBuildDate>Sun, 29 Oct 2023 09:20:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.4</generator>
+	<item>
+		<title>
+		Comment on WHERE THIS WEEKEND @ RAIPUR by admin		</title>
+		<link>https://www.bharattaxi.com/blog/where-this-weekend-raipur#comment-146497</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 29 Oct 2023 09:11:33 +0000</pubDate>
+		<guid isPermaLink="false">https://www.bharattaxi.com/blog/?p=2184#comment-146497</guid>
+
+					<description><![CDATA[fsdf]]></description>
+			<content:encoded><![CDATA[<p>fsdf</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
